@@ -10,7 +10,6 @@ $ cd TEST
 You then must create a virtual environment:
 ```
 $ python3 -m venv venv
-
 ```
 Then use the following commands to activate the virtual environment and run the program:
 ```
